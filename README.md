@@ -19,3 +19,4 @@ A Enterprise Travel Agent using Amazon Bedrock Multi-Agent Orchestration Framewo
 12) S3
 14) Prompt design Techniques (Zero Shot, One Shot.)  for Claude, Titan and Stability AI Foundation Models (LLMs)
 16) Python
+17) Amazon Aurora
